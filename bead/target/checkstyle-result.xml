@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0.1">
+<file name="C:\Users\sbalu\IdeaProjects\bead\src\main\java\foxandhounds\hu\Main.java">
+<error line="3" severity="error" message="First sentence of Javadoc is missing an ending period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+</checkstyle>
